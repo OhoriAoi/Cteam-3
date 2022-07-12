@@ -31,6 +31,11 @@
     {"folderPath":"folders/アニメーションカーブ.yy","order":12,"resourceVersion":"1.0","name":"アニメーションカーブ","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/メモ.yy","order":13,"resourceVersion":"1.0","name":"メモ","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/拡張機能.yy","order":14,"resourceVersion":"1.0","name":"拡張機能","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/大堀.yy","order":15,"resourceVersion":"1.0","name":"大堀","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/瀧.yy","order":16,"resourceVersion":"1.0","name":"瀧","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/三好.yy","order":17,"resourceVersion":"1.0","name":"三好","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/一ノ瀬.yy","order":18,"resourceVersion":"1.0","name":"一ノ瀬","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/河田.yy","order":19,"resourceVersion":"1.0","name":"河田","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

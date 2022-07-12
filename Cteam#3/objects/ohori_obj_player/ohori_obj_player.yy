@@ -1,8 +1,8 @@
 {
-  "name": "Ohori_obj_goal",
+  "name": "Ohori_obj_player",
   "spriteId": {
-    "name": "Ohori_spr_goal",
-    "path": "sprites/Ohori_spr_goal/Ohori_spr_goal.yy",
+    "name": "Ohori_spr_player",
+    "path": "sprites/Ohori_spr_player/Ohori_spr_player.yy",
   },
   "spriteMaskId": null,
   "visible": true,
@@ -23,7 +23,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Ohori_obj_player","path":"objects/Ohori_obj_player/Ohori_obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -14,7 +14,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

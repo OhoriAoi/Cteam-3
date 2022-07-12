@@ -1,9 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"Ohori_spr_goal","path":"sprites/Ohori_spr_goal/Ohori_spr_goal.yy",},"order":1,},
-    {"id":{"name":"Ohori_obj_goal","path":"objects/Ohori_obj_goal/Ohori_obj_goal.yy",},"order":2,},
-    {"id":{"name":"Ohori_obj_game_ontrol","path":"objects/Ohori_obj_game_ontrol/Ohori_obj_game_ontrol.yy",},"order":3,},
-    {"id":{"name":"Ohori_teat_room","path":"rooms/Ohori_teat_room/Ohori_teat_room.yy",},"order":0,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
@@ -19,7 +15,6 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
-    {"roomId":{"name":"Ohori_teat_room","path":"rooms/Ohori_teat_room/Ohori_teat_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

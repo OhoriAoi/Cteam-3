@@ -1,5 +1,19 @@
 {
   "resources": [
+    {"id":{"name":"obj_game_kawa","path":"objects/obj_game_kawa/obj_game_kawa.yy",},"order":7,},
+    {"id":{"name":"obj_backbtn_kawa","path":"objects/obj_backbtn_kawa/obj_backbtn_kawa.yy",},"order":5,},
+    {"id":{"name":"spr_titlebtn_kawa","path":"sprites/spr_titlebtn_kawa/spr_titlebtn_kawa.yy",},"order":13,},
+    {"id":{"name":"obj_endbtn_kawa","path":"objects/obj_endbtn_kawa/obj_endbtn_kawa.yy",},"order":6,},
+    {"id":{"name":"rm_game_kawa","path":"rooms/rm_game_kawa/rm_game_kawa.yy",},"order":2,},
+    {"id":{"name":"spr_endbtn_kawa","path":"sprites/spr_endbtn_kawa/spr_endbtn_kawa.yy",},"order":11,},
+    {"id":{"name":"rm_setumei_kawa","path":"rooms/rm_setumei_kawa/rm_setumei_kawa.yy",},"order":4,},
+    {"id":{"name":"spr_backbtn_kawa","path":"sprites/spr_backbtn_kawa/spr_backbtn_kawa.yy",},"order":10,},
+    {"id":{"name":"obj_startbtn_kawa","path":"objects/obj_startbtn_kawa/obj_startbtn_kawa.yy",},"order":8,},
+    {"id":{"name":"spr_startbtn_kawa","path":"sprites/spr_startbtn_kawa/spr_startbtn_kawa.yy",},"order":12,},
+    {"id":{"name":"rm_start_kawa","path":"rooms/rm_start_kawa/rm_start_kawa.yy",},"order":0,},
+    {"id":{"name":"rm_result_kawa","path":"rooms/rm_result_kawa/rm_result_kawa.yy",},"order":1,},
+    {"id":{"name":"obj_titlebtn_kawa","path":"objects/obj_titlebtn_kawa/obj_titlebtn_kawa.yy",},"order":9,},
+    {"id":{"name":"rm_credit_kawa","path":"rooms/rm_credit_kawa/rm_credit_kawa.yy",},"order":3,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
@@ -15,6 +29,11 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
+    {"roomId":{"name":"rm_start_kawa","path":"rooms/rm_start_kawa/rm_start_kawa.yy",},},
+    {"roomId":{"name":"rm_result_kawa","path":"rooms/rm_result_kawa/rm_result_kawa.yy",},},
+    {"roomId":{"name":"rm_game_kawa","path":"rooms/rm_game_kawa/rm_game_kawa.yy",},},
+    {"roomId":{"name":"rm_credit_kawa","path":"rooms/rm_credit_kawa/rm_credit_kawa.yy",},},
+    {"roomId":{"name":"rm_setumei_kawa","path":"rooms/rm_setumei_kawa/rm_setumei_kawa.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

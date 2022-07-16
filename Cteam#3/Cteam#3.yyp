@@ -1,11 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"spr_grass5","path":"sprites/spr_grass5/spr_grass5.yy",},"order":4,},
-    {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":0,},
-    {"id":{"name":"spr_grass4","path":"sprites/spr_grass4/spr_grass4.yy",},"order":3,},
-    {"id":{"name":"spr_grass3","path":"sprites/spr_grass3/spr_grass3.yy",},"order":2,},
-    {"id":{"name":"spr_fire1","path":"sprites/spr_fire1/spr_fire1.yy",},"order":5,},
-    {"id":{"name":"spr_grass2","path":"sprites/spr_grass2/spr_grass2.yy",},"order":1,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
@@ -21,6 +15,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
+    {"roomId":{"name":"Ohori_teat_room","path":"rooms/Ohori_teat_room/Ohori_teat_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

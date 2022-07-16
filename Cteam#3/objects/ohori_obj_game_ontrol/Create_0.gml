@@ -1,5 +1,6 @@
 /// @description 説明をここに挿入
 // このエディターでコードを作成することができます
+
 xx=room_width/2;
 yy=room_height/2;
 

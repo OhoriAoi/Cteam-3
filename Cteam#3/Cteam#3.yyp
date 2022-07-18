@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"obj_enemy_mk","path":"objects/obj_enemy_mk/obj_enemy_mk.yy",},"order":2,},
+    {"id":{"name":"spe_enemy_mk","path":"sprites/spe_enemy_mk/spe_enemy_mk.yy",},"order":3,},
+    {"id":{"name":"spr_fire_mk","path":"sprites/spr_fire_mk/spr_fire_mk.yy",},"order":1,},
+    {"id":{"name":"obj_fire_mk","path":"objects/obj_fire_mk/obj_fire_mk.yy",},"order":0,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [

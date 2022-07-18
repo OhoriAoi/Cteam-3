@@ -1,16 +1,15 @@
 {
-  "name": "obj_playerT",
   "spriteId": {
     "name": "spr_taki1",
     "path": "sprites/spr_taki1/spr_taki1.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -40,6 +39,7 @@
     "path": "folders/瀧.yy",
   },
   "resourceVersion": "1.0",
+  "name": "obj_playerT",
   "tags": [],
   "resourceType": "GMObject",
 }

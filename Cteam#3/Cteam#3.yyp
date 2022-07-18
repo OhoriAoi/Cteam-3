@@ -4,6 +4,7 @@
     {"id":{"name":"obj_waterT","path":"objects/obj_waterT/obj_waterT.yy",},"order":4,},
     {"id":{"name":"spr_taki1","path":"sprites/spr_taki1/spr_taki1.yy",},"order":2,},
     {"id":{"name":"obj_playerT","path":"objects/obj_playerT/obj_playerT.yy",},"order":1,},
+    {"id":{"name":"obj_takitest","path":"objects/obj_takitest/obj_takitest.yy",},"order":5,},
     {"id":{"name":"rm_taki","path":"rooms/rm_taki/rm_taki.yy",},"order":0,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],

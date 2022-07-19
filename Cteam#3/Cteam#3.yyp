@@ -21,6 +21,7 @@
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":6,},
     {"id":{"name":"obj_cdtbtn_kawada","path":"objects/obj_cdtbtn_kawada/obj_cdtbtn_kawada.yy",},"order":2,},
     {"id":{"name":"Sprite01","path":"sprites/Sprite01/Sprite01.yy",},"order":16,},
+    {"id":{"name":"spr_enemy_back","path":"sprites/spr_enemy_back/spr_enemy_back.yy",},"order":19,},
     {"id":{"name":"Room03","path":"rooms/Room03/Room03.yy",},"order":7,},
     {"id":{"name":"obj_fire_miyoshi","path":"objects/obj_fire_miyoshi/obj_fire_miyoshi.yy",},"order":1,},
     {"id":{"name":"obj_endbtn_kawada","path":"objects/obj_endbtn_kawada/obj_endbtn_kawada.yy",},"order":3,},

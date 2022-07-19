@@ -1,12 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"spr_taki2","path":"sprites/spr_taki2/spr_taki2.yy",},"order":3,},
-    {"id":{"name":"spr_taki3","path":"sprites/spr_taki3/spr_taki3.yy",},"order":6,},
-    {"id":{"name":"obj_waterT","path":"objects/obj_waterT/obj_waterT.yy",},"order":4,},
-    {"id":{"name":"spr_taki1","path":"sprites/spr_taki1/spr_taki1.yy",},"order":2,},
-    {"id":{"name":"obj_playerT","path":"objects/obj_playerT/obj_playerT.yy",},"order":1,},
-    {"id":{"name":"obj_takitest","path":"objects/obj_takitest/obj_takitest.yy",},"order":5,},
-    {"id":{"name":"rm_taki","path":"rooms/rm_taki/rm_taki.yy",},"order":0,},
+
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
@@ -23,6 +17,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_taki","path":"rooms/rm_taki/rm_taki.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
+    {"roomId":{"name":"Ohori_teat_room","path":"rooms/Ohori_teat_room/Ohori_teat_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

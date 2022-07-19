@@ -14,7 +14,7 @@
     {"id":{"name":"Ohori_obj_goal","path":"objects/Ohori_obj_goal/Ohori_obj_goal.yy",},"order":1,},
     {"id":{"name":"spr_ground3","path":"sprites/spr_ground3/spr_ground3.yy",},"order":2,},
     {"id":{"name":"Sprite03","path":"sprites/Sprite03/Sprite03.yy",},"order":11,},
-    {"id":{"name":"Sprite0718","path":"sprites/Sprite0718/Sprite0718.yy",},"order":16,},
+    {"id":{"name":"Sprite08","path":"sprites/Sprite08/Sprite08.yy",},"order":16,},
     {"id":{"name":"spr_ground4","path":"sprites/spr_ground4/spr_ground4.yy",},"order":3,},
     {"id":{"name":"Sprite02","path":"sprites/Sprite02/Sprite02.yy",},"order":10,},
     {"id":{"name":"Ohori_obj_game_ontrol","path":"objects/Ohori_obj_game_ontrol/Ohori_obj_game_ontrol.yy",},"order":0,},

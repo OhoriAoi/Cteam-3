@@ -10,12 +10,10 @@ hig=4/5;
 n=33
 
 while(room_width*low<=xx&&xx<=room_width*hig&&room_height*low<=yy&&yy<=room_height*hig){
-//if(){
 randomize();
-xx = irandom_range(0, room_width);
+xx = irandom_range(33, room_width-33);
 randomize();
-yy = irandom_range(0, room_height);
-//}
+yy = irandom_range(33, room_height-33);
 }
 instance_create_layer(xx, yy, "instances", Ohori_obj_goal);
 }

@@ -26,7 +26,7 @@
     "path": "folders/河田.yy",
   },
   "resourceVersion": "1.0",
-  "name": "kawada047",
+  "name": "kawada05",
   "tags": [],
   "resourceType": "GMObject",
 }

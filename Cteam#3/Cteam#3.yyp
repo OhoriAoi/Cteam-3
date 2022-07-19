@@ -41,7 +41,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Takitest","path":"rooms/Takitest/Takitest.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
     {"roomId":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},},
     {"roomId":{"name":"Room01","path":"rooms/Room01/Room01.yy",},},
@@ -49,6 +48,7 @@
     {"roomId":{"name":"Room03","path":"rooms/Room03/Room03.yy",},},
     {"roomId":{"name":"Room04","path":"rooms/Room04/Room04.yy",},},
     {"roomId":{"name":"Room05","path":"rooms/Room05/Room05.yy",},},
+    {"roomId":{"name":"Takitest","path":"rooms/Takitest/Takitest.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

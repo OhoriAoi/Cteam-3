@@ -1,14 +1,19 @@
 {
   "resources": [
-    {"id":{"name":"kawada047","path":"objects/kawada047/kawada047.yy",},"order":4,},
+    {"id":{"name":"Room05","path":"rooms/Room05/Room05.yy",},"order":9,},
+    {"id":{"name":"kawada05","path":"objects/kawada05/kawada05.yy",},"order":4,},
+    {"id":{"name":"Room04","path":"rooms/Room04/Room04.yy",},"order":8,},
     {"id":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},"order":2,},
+    {"id":{"name":"Room02","path":"rooms/Room02/Room02.yy",},"order":6,},
     {"id":{"name":"spr_ground1","path":"sprites/spr_ground1/spr_ground1.yy",},"order":0,},
     {"id":{"name":"Ohori_obj_goal","path":"objects/Ohori_obj_goal/Ohori_obj_goal.yy",},"order":1,},
     {"id":{"name":"spr_ground3","path":"sprites/spr_ground3/spr_ground3.yy",},"order":2,},
     {"id":{"name":"spr_ground4","path":"sprites/spr_ground4/spr_ground4.yy",},"order":3,},
     {"id":{"name":"Ohori_obj_game_ontrol","path":"objects/Ohori_obj_game_ontrol/Ohori_obj_game_ontrol.yy",},"order":0,},
+    {"id":{"name":"Room01","path":"rooms/Room01/Room01.yy",},"order":5,},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":6,},
     {"id":{"name":"kawada03","path":"objects/kawada03/kawada03.yy",},"order":2,},
+    {"id":{"name":"Room03","path":"rooms/Room03/Room03.yy",},"order":7,},
     {"id":{"name":"kawada04","path":"objects/kawada04/kawada04.yy",},"order":3,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":7,},
     {"id":{"name":"kawada02","path":"objects/kawada02/kawada02.yy",},"order":1,},
@@ -34,6 +39,11 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
     {"roomId":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},},
+    {"roomId":{"name":"Room01","path":"rooms/Room01/Room01.yy",},},
+    {"roomId":{"name":"Room02","path":"rooms/Room02/Room02.yy",},},
+    {"roomId":{"name":"Room03","path":"rooms/Room03/Room03.yy",},},
+    {"roomId":{"name":"Room04","path":"rooms/Room04/Room04.yy",},},
+    {"roomId":{"name":"Room05","path":"rooms/Room05/Room05.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

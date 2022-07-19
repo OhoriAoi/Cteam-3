@@ -22,7 +22,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_619DCF1C","path":"rooms/Ohori_teat_room/Ohori_teat_room.yy",},
+    {"name":"inst_619DCF1C","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -50,7 +50,7 @@
     "path": "folders/大堀.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Ohori_teat_room",
+  "name": "Ohori_test_room",
   "tags": [],
   "resourceType": "GMRoom",
 }

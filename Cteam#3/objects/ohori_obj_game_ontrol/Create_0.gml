@@ -6,8 +6,9 @@ yy=room_height/2;
 
 low=1/5;
 hig=4/5;
+n=100
 
-while(room_width*low<=xx&&xx<=room_width*hig&&room_height*low<=yy&&yy<=room_height*hig){
+while(room_width*low+n<=xx&&xx<=room_width*hig-n&&room_height*low+n<=yy&&yy<=room_height*hig-n){
 randomize();
 xx = irandom_range(0, room_width);
 randomize();

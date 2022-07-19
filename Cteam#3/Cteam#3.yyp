@@ -26,6 +26,7 @@
     {"id":{"name":"obj_endbtn_kawada","path":"objects/obj_endbtn_kawada/obj_endbtn_kawada.yy",},"order":3,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":7,},
     {"id":{"name":"obj_backbtn_kawada","path":"objects/obj_backbtn_kawada/obj_backbtn_kawada.yy",},"order":1,},
+    {"id":{"name":"rm_test_miyoshi","path":"rooms/rm_test_miyoshi/rm_test_miyoshi.yy",},"order":4,},
     {"id":{"name":"Sprite02","path":"sprites/Sprite02/Sprite02.yy",},"order":17,},
     {"id":{"name":"spr_ground5","path":"sprites/spr_ground5/spr_ground5.yy",},"order":4,},
     {"id":{"name":"spr_mercury","path":"sprites/spr_mercury/spr_mercury.yy",},"order":8,},
@@ -54,6 +55,7 @@
     {"roomId":{"name":"Room03","path":"rooms/Room03/Room03.yy",},},
     {"roomId":{"name":"Room04","path":"rooms/Room04/Room04.yy",},},
     {"roomId":{"name":"Room05","path":"rooms/Room05/Room05.yy",},},
+    {"roomId":{"name":"rm_test_miyoshi","path":"rooms/rm_test_miyoshi/rm_test_miyoshi.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

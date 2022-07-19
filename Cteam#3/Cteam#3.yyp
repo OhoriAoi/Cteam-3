@@ -5,7 +5,7 @@
     {"id":{"name":"obj_game_kawada","path":"objects/obj_game_kawada/obj_game_kawada.yy",},"order":4,},
     {"id":{"name":"spr_back_right","path":"sprites/spr_back_right/spr_back_right.yy",},"order":15,},
     {"id":{"name":"Object02","path":"objects/Object02/Object02.yy",},"order":3,},
-    {"id":{"name":"Object01","path":"objects/Object01/Object01.yy",},"order":2,},
+    {"id":{"name":"obj_enemy_miyoshi","path":"objects/obj_enemy_miyoshi/obj_enemy_miyoshi.yy",},"order":2,},
     {"id":{"name":"Room04","path":"rooms/Room04/Room04.yy",},"order":8,},
     {"id":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},"order":2,},
     {"id":{"name":"Room02","path":"rooms/Room02/Room02.yy",},"order":6,},

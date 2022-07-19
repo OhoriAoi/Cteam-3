@@ -26,7 +26,7 @@
     "path": "folders/三好.yy",
   },
   "resourceVersion": "1.0",
-  "name": "miyosi01",
+  "name": "obj_fire_miyoshi",
   "tags": [],
   "resourceType": "GMObject",
 }

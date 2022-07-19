@@ -26,7 +26,7 @@
     "path": "folders/三好.yy",
   },
   "resourceVersion": "1.0",
-  "name": "miyosi02",
+  "name": "obj_enemy_miyoshi",
   "tags": [],
   "resourceType": "GMObject",
 }

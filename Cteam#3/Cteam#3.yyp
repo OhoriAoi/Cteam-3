@@ -21,7 +21,7 @@
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":6,},
     {"id":{"name":"obj_cdtbtn_kawada","path":"objects/obj_cdtbtn_kawada/obj_cdtbtn_kawada.yy",},"order":2,},
     {"id":{"name":"Room03","path":"rooms/Room03/Room03.yy",},"order":7,},
-    {"id":{"name":"miyosi02","path":"objects/miyosi02/miyosi02.yy",},"order":1,},
+    {"id":{"name":"obj_fire_miyoshi","path":"objects/obj_fire_miyoshi/obj_fire_miyoshi.yy",},"order":1,},
     {"id":{"name":"obj_endbtn_kawada","path":"objects/obj_endbtn_kawada/obj_endbtn_kawada.yy",},"order":3,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":7,},
     {"id":{"name":"obj_backbtn_kawada","path":"objects/obj_backbtn_kawada/obj_backbtn_kawada.yy",},"order":1,},

@@ -25,6 +25,7 @@
     {"id":{"name":"Room03","path":"rooms/Room03/Room03.yy",},"order":7,},
     {"id":{"name":"obj_fire_miyoshi","path":"objects/obj_fire_miyoshi/obj_fire_miyoshi.yy",},"order":1,},
     {"id":{"name":"obj_endbtn_kawada","path":"objects/obj_endbtn_kawada/obj_endbtn_kawada.yy",},"order":3,},
+    {"id":{"name":"Ohori_player","path":"objects/Ohori_player/Ohori_player.yy",},"order":4,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":7,},
     {"id":{"name":"obj_backbtn_kawada","path":"objects/obj_backbtn_kawada/obj_backbtn_kawada.yy",},"order":1,},
     {"id":{"name":"spr_ground5","path":"sprites/spr_ground5/spr_ground5.yy",},"order":4,},

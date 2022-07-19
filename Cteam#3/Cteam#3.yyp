@@ -60,6 +60,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
     {"roomId":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},},
@@ -68,7 +69,6 @@
     {"roomId":{"name":"Room03","path":"rooms/Room03/Room03.yy",},},
     {"roomId":{"name":"Room04","path":"rooms/Room04/Room04.yy",},},
     {"roomId":{"name":"Room05","path":"rooms/Room05/Room05.yy",},},
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_result1","path":"rooms/rm_result1/rm_result1.yy",},},
     {"roomId":{"name":"rm_result2","path":"rooms/rm_result2/rm_result2.yy",},},
     {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},

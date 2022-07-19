@@ -26,7 +26,7 @@
     "path": "folders/河田.yy",
   },
   "resourceVersion": "1.0",
-  "name": "kawada02",
+  "name": "obj_game_kawada",
   "tags": [],
   "resourceType": "GMObject",
 }

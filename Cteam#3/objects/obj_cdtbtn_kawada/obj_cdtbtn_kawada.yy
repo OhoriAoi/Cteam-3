@@ -26,7 +26,7 @@
     "path": "folders/河田.yy",
   },
   "resourceVersion": "1.0",
-  "name": "kawada04",
+  "name": "obj_cdtbtn_kawada",
   "tags": [],
   "resourceType": "GMObject",
 }

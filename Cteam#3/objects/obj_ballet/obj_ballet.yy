@@ -31,7 +31,7 @@
     "path": "folders/瀧.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object9",
+  "name": "obj_ballet",
   "tags": [],
   "resourceType": "GMObject",
 }

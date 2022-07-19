@@ -29,7 +29,7 @@
     "path": "folders/大堀.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Ohori_obj_game_ontrol",
+  "name": "Ohori_obj_goal_ontrol",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -3,8 +3,8 @@
 
 switch(room) 
     { 
-    case rm_start_kawada:
-        room_goto(rm_game_kawada); 
+    case rm_start:
+        room_goto(rm_game); 
 		//audio_play_sound(bgm1,1,true);
          break;
     }

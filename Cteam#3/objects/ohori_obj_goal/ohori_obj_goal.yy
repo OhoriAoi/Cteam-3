@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Ohori_spr_goal",
-    "path": "sprites/Ohori_spr_goal/Ohori_spr_goal.yy",
+    "name": "spr_goal",
+    "path": "sprites/spr_goal/spr_goal.yy",
   },
   "solid": false,
   "visible": true,

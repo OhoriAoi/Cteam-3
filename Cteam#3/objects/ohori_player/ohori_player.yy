@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Ohori_spr_goal",
-    "path": "sprites/Ohori_spr_goal/Ohori_spr_goal.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,10 +18,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Ohori_player","path":"objects/Ohori_player/Ohori_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -32,7 +26,7 @@
     "path": "folders/大堀.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Ohori_obj_goal",
+  "name": "Ohori_player",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_enemy_top","path":"sprites/spr_enemy_top/spr_enemy_top.yy",},"order":9,},
+    {"id":{"name":"obj_ballet","path":"objects/obj_ballet/obj_ballet.yy",},"order":1,},
     {"id":{"name":"Room05","path":"rooms/Room05/Room05.yy",},"order":9,},
     {"id":{"name":"obj_game_kawada","path":"objects/obj_game_kawada/obj_game_kawada.yy",},"order":4,},
     {"id":{"name":"spr_enemy_back_right","path":"sprites/spr_enemy_back_right/spr_enemy_back_right.yy",},"order":15,},
@@ -61,7 +62,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
     {"roomId":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},},
@@ -70,6 +70,7 @@
     {"roomId":{"name":"Room03","path":"rooms/Room03/Room03.yy",},},
     {"roomId":{"name":"Room04","path":"rooms/Room04/Room04.yy",},},
     {"roomId":{"name":"Room05","path":"rooms/Room05/Room05.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_result1","path":"rooms/rm_result1/rm_result1.yy",},},
     {"roomId":{"name":"rm_result2","path":"rooms/rm_result2/rm_result2.yy",},},
     {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},

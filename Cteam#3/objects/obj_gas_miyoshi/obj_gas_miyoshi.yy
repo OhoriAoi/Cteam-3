@@ -26,7 +26,7 @@
     "path": "folders/三好.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object02",
+  "name": "obj_gas_miyoshi",
   "tags": [],
   "resourceType": "GMObject",
 }

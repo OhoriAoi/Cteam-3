@@ -18,15 +18,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "三好",
-    "path": "folders/三好.yy",
+    "name": "大堀",
+    "path": "folders/大堀.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object02",
+  "name": "Ohori_obj_goal_ontrol",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -25,11 +25,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "大堀",
-    "path": "folders/大堀.yy",
+    "name": "三好",
+    "path": "folders/三好.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Ohori_obj_game_ontrol",
+  "name": "obj_gas_miyoshi",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -4,8 +4,8 @@
 if(life<=0){
 switch(room) 
     { 
-    case rm_game_kawada:
-        room_goto(rm_result1_kawada); 
+    case rm_game:
+        room_goto(rm_result2); 
          break;
     }
 }

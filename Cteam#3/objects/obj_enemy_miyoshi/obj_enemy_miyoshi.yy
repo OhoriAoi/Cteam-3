@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_enemy_top",
+    "path": "sprites/spr_enemy_top/spr_enemy_top.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

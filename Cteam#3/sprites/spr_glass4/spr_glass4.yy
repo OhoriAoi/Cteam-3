@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"54c526bb-f3e3-4a04-a53b-a0f56005ec2b","path":"sprites/spr_ground4/spr_ground4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"54c526bb-f3e3-4a04-a53b-a0f56005ec2b","path":"sprites/spr_ground4/spr_ground4.yy",},"LayerId":{"name":"efdc4692-015a-435d-9d91-80e1b866a2f7","path":"sprites/spr_ground4/spr_ground4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ground4","path":"sprites/spr_ground4/spr_ground4.yy",},"resourceVersion":"1.0","name":"54c526bb-f3e3-4a04-a53b-a0f56005ec2b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c25d9ead-d522-4078-9092-5d855fc55406","path":"sprites/spr_glass4/spr_glass4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c25d9ead-d522-4078-9092-5d855fc55406","path":"sprites/spr_glass4/spr_glass4.yy",},"LayerId":{"name":"76ceebb4-e867-421f-80ab-9454ebe10e29","path":"sprites/spr_glass4/spr_glass4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_glass4","path":"sprites/spr_glass4/spr_glass4.yy",},"resourceVersion":"1.0","name":"c25d9ead-d522-4078-9092-5d855fc55406","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ground4","path":"sprites/spr_ground4/spr_ground4.yy",},
+    "spriteId": {"name":"spr_glass4","path":"sprites/spr_glass4/spr_glass4.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e8587f1d-9839-4cfe-b004-ec3a1c2b8393","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"54c526bb-f3e3-4a04-a53b-a0f56005ec2b","path":"sprites/spr_ground4/spr_ground4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"d73c1dea-c1b3-4a50-b8b9-faeca67549fb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c25d9ead-d522-4078-9092-5d855fc55406","path":"sprites/spr_glass4/spr_glass4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,46 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ground4","path":"sprites/spr_ground4/spr_ground4.yy",},
+    "parent": {"name":"spr_glass4","path":"sprites/spr_glass4/spr_glass4.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_ground4",
+    "name": "spr_glass4",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"efdc4692-015a-435d-9d91-80e1b866a2f7","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"76ceebb4-e867-421f-80ab-9454ebe10e29","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": {
-    "left": 0,
-    "top": 0,
-    "right": 0,
-    "bottom": 0,
-    "guideColour": [
-      4294902015,
-      4294902015,
-      4294902015,
-      4294902015,
-    ],
-    "highlightColour": 1728023040,
-    "highlightStyle": 0,
-    "enabled": false,
-    "tileMode": [
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
-    "resourceVersion": "1.0",
-    "loadedVersion": null,
-    "resourceType": "GMNineSliceData",
-  },
+  "nineSlice": null,
   "parent": {
     "name": "スプライト",
     "path": "folders/スプライト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_ground4",
+  "name": "spr_glass4",
   "tags": [],
   "resourceType": "GMSprite",
 }

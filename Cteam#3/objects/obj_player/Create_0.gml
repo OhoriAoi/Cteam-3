@@ -1,5 +1,7 @@
 direction = 90;
 
+//ここに変更があるはず
+
 view_enabled = true
 view_visible[0] = true
 

@@ -1,4 +1,6 @@
-direction = 90;
+direction = 270;
+
+ballet = true
 
 //ここに変更があるはず
 

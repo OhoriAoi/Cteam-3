@@ -1,4 +1,8 @@
-direction = 90;
+direction = 270;
+
+ballet = true
+
+//ここに変更があるはず
 
 view_enabled = true
 view_visible[0] = true

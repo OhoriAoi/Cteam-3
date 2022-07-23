@@ -1,5 +1,5 @@
 {
-  "name": "bgm_game",
+  "name": "bgm_result1",
   "conversionMode": 0,
   "compression": 0,
   "type": 0,
@@ -12,8 +12,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "bgm_game.mp3",
-  "duration": 139.67674,
+  "soundFile": "bgm_result1.mp3",
+  "duration": 4.91102,
   "parent": {
     "name": "サウンド",
     "path": "folders/サウンド.yy",

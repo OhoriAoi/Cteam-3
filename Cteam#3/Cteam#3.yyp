@@ -44,6 +44,7 @@
     {"id":{"name":"tile_glass2","path":"tilesets/tile_glass2/tile_glass2.yy",},"order":1,},
     {"id":{"name":"spr_background03","path":"sprites/spr_background03/spr_background03.yy",},"order":32,},
     {"id":{"name":"spr_glass2","path":"sprites/spr_glass2/spr_glass2.yy",},"order":26,},
+    {"id":{"name":"bgm_start","path":"sounds/bgm_start/bgm_start.yy",},"order":0,},
     {"id":{"name":"spr_player_top","path":"sprites/spr_player_top/spr_player_top.yy",},"order":7,},
     {"id":{"name":"obj_backbtn_kawada","path":"objects/obj_backbtn_kawada/obj_backbtn_kawada.yy",},"order":1,},
     {"id":{"name":"spr_ground5","path":"sprites/spr_ground5/spr_ground5.yy",},"order":4,},

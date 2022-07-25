@@ -1,10 +1,10 @@
 switch(room) 
     { 
     case rm_credit: 
-        room_goto(rm_start); 
+        game_restart(); 
          break;
     case rm_operation: 
-        room_goto(rm_start); 
+        game_restart(); 
         break;
 	case rm_result1: 
         game_restart(); 

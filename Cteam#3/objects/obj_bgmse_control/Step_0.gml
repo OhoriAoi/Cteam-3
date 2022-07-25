@@ -45,9 +45,9 @@ switch(room){
 		if(keyboard_check_pressed(vk_enter)){
 			audio_play_sound(se_shot,1,false);
 		}
-		if(life<now_life){
+		/*if(life<now_life){
 			audio_play_sound(se_damage,1,false);
 		}
 		var now_life=life;
-		break;
+		break;*/
 }

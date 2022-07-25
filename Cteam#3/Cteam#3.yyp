@@ -83,14 +83,14 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_result1","path":"rooms/rm_result1/rm_result1.yy",},},
+    {"roomId":{"name":"rm_result2","path":"rooms/rm_result2/rm_result2.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},
+    {"roomId":{"name":"rm_operation","path":"rooms/rm_operation/rm_operation.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
     {"roomId":{"name":"Ohori_test_room","path":"rooms/Ohori_test_room/Ohori_test_room.yy",},},
-    {"roomId":{"name":"rm_result1","path":"rooms/rm_result1/rm_result1.yy",},},
-    {"roomId":{"name":"rm_result2","path":"rooms/rm_result2/rm_result2.yy",},},
-    {"roomId":{"name":"rm_operation","path":"rooms/rm_operation/rm_operation.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

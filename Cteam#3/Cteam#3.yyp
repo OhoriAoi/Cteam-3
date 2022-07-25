@@ -31,6 +31,7 @@
     {"id":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},"order":5,},
     {"id":{"name":"rm_result1","path":"rooms/rm_result1/rm_result1.yy",},"order":3,},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":6,},
+    {"id":{"name":"spr_botton","path":"sprites/spr_botton/spr_botton.yy",},"order":33,},
     {"id":{"name":"obj_cdtbtn_kawada","path":"objects/obj_cdtbtn_kawada/obj_cdtbtn_kawada.yy",},"order":2,},
     {"id":{"name":"tile_glass4","path":"tilesets/tile_glass4/tile_glass4.yy",},"order":3,},
     {"id":{"name":"spr_enemy_right","path":"sprites/spr_enemy_right/spr_enemy_right.yy",},"order":20,},
@@ -83,9 +84,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_result1","path":"rooms/rm_result1/rm_result1.yy",},},
     {"roomId":{"name":"rm_result2","path":"rooms/rm_result2/rm_result2.yy",},},
-    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},
     {"roomId":{"name":"rm_operation","path":"rooms/rm_operation/rm_operation.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},

@@ -5,9 +5,8 @@ if(instance_exists(obj_player)){//playerを格納
 	var inst = obj_player
 	//playerとの距離を求める
 	var to_dist = distance_to_object(inst)
-	//playerとの距離が300より大きいなら動かない
-	if(to_dist > 300){
-		speed = 0
+	//playerとの距離が100より大きいなら動かない
+	if(to_dist > 1000){
 		return
 	}
 	speed = 3

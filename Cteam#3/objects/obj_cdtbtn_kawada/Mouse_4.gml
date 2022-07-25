@@ -3,9 +3,6 @@
 
 switch(room) 
     { 
-    case rm_credit: 
-        room_goto(rm_start); 
-         break;
 	case rm_start: 
         room_goto(rm_credit); 
          break;

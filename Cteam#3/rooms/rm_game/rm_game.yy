@@ -1484,9 +1484,9 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_7F6969FF","path":"rooms/rm_game/rm_game.yy",},
-    {"name":"inst_33625177","path":"rooms/rm_game/rm_game.yy",},
-    {"name":"inst_56AA5C19","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -2,14 +2,13 @@
 // You can write your code in this editor
 
 switch (room) 
-
 { 
 
 case rm_start: 
 
 draw_set_halign(fa_center); 
 
-    var c = c_blue; 
+    var c = c_navy; 
 
     draw_text_transformed_colour(room_width / 2, 150, "タイトル", 7, 7, 0, c, c, c, c, 1); 
 
@@ -31,7 +30,7 @@ case rm_credit:
 
 draw_set_halign(fa_center); 
 
-    var c = c_blue; 
+    var c = c_purple; 
 
     draw_text_transformed_colour(room_width / 2, 130, "クレジット", 5, 5, 0, c, c, c, c, 1); 
 
@@ -52,7 +51,7 @@ case rm_operation:
 
 draw_set_halign(fa_center); 
 
-    var c = c_blue; 
+    var c = c_purple; 
 
     draw_text_transformed_colour(room_width / 2, 130, "操作方法", 5, 5, 0, c, c, c, c, 1); 
 
@@ -79,7 +78,7 @@ case rm_result1:
 
     draw_set_halign(fa_center); 
 
-    var c = c_red; 
+    var c = c_blue; 
 
     draw_text_transformed_colour(room_width / 2, 250, "ゲームクリア!", 7, 7, 0, c, c, c, c, 1); 
 

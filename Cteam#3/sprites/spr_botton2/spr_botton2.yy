@@ -8,13 +8,13 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 349,
+  "bbox_right": 249,
   "bbox_top": 0,
   "bbox_bottom": 99,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 350,
+  "width": 250,
   "height": 100,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","path":"sprites/spr_botton/spr_botton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","path":"sprites/spr_botton/spr_botton.yy",},"LayerId":{"name":"5b840678-6915-4449-bd89-38a34032cc17","path":"sprites/spr_botton/spr_botton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_botton","path":"sprites/spr_botton/spr_botton.yy",},"resourceVersion":"1.0","name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","path":"sprites/spr_botton2/spr_botton2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","path":"sprites/spr_botton2/spr_botton2.yy",},"LayerId":{"name":"5b840678-6915-4449-bd89-38a34032cc17","path":"sprites/spr_botton2/spr_botton2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_botton2","path":"sprites/spr_botton2/spr_botton2.yy",},"resourceVersion":"1.0","name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_botton","path":"sprites/spr_botton/spr_botton.yy",},
+    "spriteId": {"name":"spr_botton2","path":"sprites/spr_botton2/spr_botton2.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e0cd536f-5a34-48f0-bea0-e3e3c0bc840e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","path":"sprites/spr_botton/spr_botton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"f1ce3040-3130-45b8-b030-2873f86f77c0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7003ae1-4feb-4038-ad40-2e7d97764afc","path":"sprites/spr_botton2/spr_botton2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_botton","path":"sprites/spr_botton/spr_botton.yy",},
+    "parent": {"name":"spr_botton2","path":"sprites/spr_botton2/spr_botton2.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_botton",
+    "name": "spr_botton2",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/スプライト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_botton",
+  "name": "spr_botton2",
   "tags": [],
   "resourceType": "GMSprite",
 }

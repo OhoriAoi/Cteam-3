@@ -11,34 +11,46 @@ draw_set_halign(fa_center);
 
     var c = c_blue; 
 
-    draw_text_transformed_colour(room_width / 2, 150, "UMAGURO", 7, 7, 0, c, c, c, c, 1); 
+    draw_text_transformed_colour(room_width / 2, 150, "タイトル", 7, 7, 0, c, c, c, c, 1); 
 
-    c=c_black; 
+    c=c_white; 
 
-draw_text_transformed_colour(room_width / 2, 300, 
+draw_text_transformed_colour(room_width / 3.4, 430, "スタート",4,4,0,c,c,c,c,1);
 
-    @"Survive as long as possible! 
-     
+draw_text_transformed_colour(room_width / 1.4, 430, "ソウサ",4,4,0,c,c,c,c,1);
 
-    UP/DOWN: move 
+draw_text_transformed_colour(room_width / 1.4, 600, "トジル",4,4,0,c,c,c,c,1);
 
-SPACE: change 
-
-    >>PRESS ENTER TO START<<",2,2,0,c,c,c,c,1); 
-
-    draw_set_halign(fa_left); 
-
-     
+draw_text_transformed_colour(room_width / 3.4, 600, "クレジット",4,4,0,c,c,c,c,1);
 
     break; 
 
- 
+
+
+case rm_credit: 
+
+draw_set_halign(fa_center); 
+
+    var c = c_blue; 
+
+    draw_text_transformed_colour(room_width / 2, 150, "クレジット", 7, 7, 0, c, c, c, c, 1); 
+
+    c=c_white; 
+
+draw_text_transformed_colour(room_width / 2, 250, "イラスト",3,3,0,c,c,c,c,1);
+
+draw_text_transformed_colour(room_width / 2, 350, "七三ゆきのアトリエ",3,3,0,c,c,c,c,1);
+
+draw_text_transformed_colour(room_width / 2, 400, "ぴぽや倉庫",3,3,0,c,c,c,c,1);
+
+draw_text_transformed_colour(room_width / 3.6, 600, "モドル",4,4,0,c,c,c,c,1);
+
+    break;
 
 case rm_game:  
 
     break; 
 
-  
 
 case rm_result1: 
 
@@ -46,14 +58,31 @@ case rm_result1:
 
     var c = c_red; 
 
-    draw_text_transformed_colour(room_width / 2, 250, "RESULT!", 7, 7, 0, c, c, c, c, 1); 
+    draw_text_transformed_colour(room_width / 2, 250, "ゲームクリア!", 7, 7, 0, c, c, c, c, 1); 
 
-c=c_yellow; 
+c=c_white; 
 
-    draw_text(room_width / 2, 520, ">>PRESS ENTER TO RESTART<<"); 
+    draw_text_transformed_colour(room_width / 1.4, 500, "タイトルへ", 4, 4, 0, c, c, c, c, 1);
+	
+	draw_text_transformed_colour(room_width / 3.4, 500, "トジル", 4, 4, 0, c, c, c, c, 1);
 
-    draw_set_halign(fa_left); 
+    break;
+	
+	
+case rm_result2: 
 
-    break; 
+    draw_set_halign(fa_center); 
+
+    var c = c_red; 
+
+    draw_text_transformed_colour(room_width / 2, 250, "ゲームオーバー", 7, 7, 0, c, c, c, c, 1); 
+
+c=c_white; 
+
+    draw_text_transformed_colour(room_width / 1.4, 500, "タイトルへ", 4, 4, 0, c, c, c, c, 1);
+	
+	draw_text_transformed_colour(room_width / 3.4, 500, "トジル", 4, 4, 0, c, c, c, c, 1);
+
+    break; 	
 
 }

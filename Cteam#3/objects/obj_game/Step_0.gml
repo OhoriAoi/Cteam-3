@@ -4,7 +4,7 @@
 if(room==rm_game&&0<=global.enemy_num){
 	var xx = room_height/2
 	var yy = room_width/2
-	while((room_width/3<=xx&&xx<=2*room_width/3)||(room_height/3<=yy&&yy<= 2*room_height/3)){
+	while((room_width/3<=xx&&xx<=2*room_width/3)&&(room_height/3<=yy&&yy<= 2*room_height/3)){
 	randomize();
 	xx = irandom_range(0, room_width);
 	randomize();
@@ -16,7 +16,7 @@ if(room==rm_game&&0<=global.enemy_num){
 if(room==rm_game&&0<=global.fire_num){
 	var xx = room_height/2
 	var yy = room_width/2
-	while((room_width/3<=xx&&xx<=2*room_width/3)||(room_height/3<=yy&&yy<= 2*room_height/3)){
+	while((room_width/3<=xx&&xx<=2*room_width/3)&&(room_height/3<=yy&&yy<= 2*room_height/3)){
 	randomize();
 	xx = irandom_range(0, room_width);
 	randomize();

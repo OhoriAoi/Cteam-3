@@ -1,0 +1,10 @@
+diff a/Cteam#3/objects/obj_game/Step_0.gml b/Cteam#3/objects/obj_game/Step_0.gml	(rejected hunks)
+@@ -11,7 +11,7 @@
+ 	yy = irandom_range(0, room_height);
+ 	}
+ 	instance_create_layer(xx, yy, "instances", obj_enemy_miyoshi);
+-	enemy_num --
++	global.enemy_num --
+ }
+ 
+ 

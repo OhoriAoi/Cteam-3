@@ -52,6 +52,7 @@
     {"id":{"name":"obj_BGMSE_control","path":"objects/obj_BGMSE_control/obj_BGMSE_control.yy",},"order":5,},
     {"id":{"name":"bgm_start","path":"sounds/bgm_start/bgm_start.yy",},"order":0,},
     {"id":{"name":"bgm_game","path":"sounds/bgm_game/bgm_game.yy",},"order":1,},
+    {"id":{"name":"se_enemy_dai","path":"sounds/se_enemy_dai/se_enemy_dai.yy",},"order":6,},
     {"id":{"name":"spr_player_top","path":"sprites/spr_player_top/spr_player_top.yy",},"order":7,},
     {"id":{"name":"obj_oprbtn_kawada","path":"objects/obj_oprbtn_kawada/obj_oprbtn_kawada.yy",},"order":5,},
     {"id":{"name":"obj_backbtn_kawada","path":"objects/obj_backbtn_kawada/obj_backbtn_kawada.yy",},"order":1,},

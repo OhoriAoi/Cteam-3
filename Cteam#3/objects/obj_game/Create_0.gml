@@ -4,3 +4,4 @@
 draw_set_font(fnt_text);
 
 global.enemy_num = 50
+global.fire_num = 50

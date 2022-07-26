@@ -2,3 +2,5 @@
 // You can write your code in this editor
 
 draw_set_font(fnt_text);
+
+global.enemy_num = 40

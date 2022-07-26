@@ -36,11 +36,11 @@ draw_set_halign(fa_center);
 
     c=c_white; 
 
-draw_text_transformed_colour(room_width / 2, 275, "イラスト",3,3,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 2, 300, "七三ゆきのアトリエ",2,2,0,c,c,c,c,1);
 
-draw_text_transformed_colour(room_width / 2, 400, "七三ゆきのアトリエ",2,2,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 2, 400, "ぴぽや倉庫",2,2,0,c,c,c,c,1);
 
-draw_text_transformed_colour(room_width / 2, 500, "ぴぽや倉庫",2,2,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 2, 500, "フリーBGM",2,2,0,c,c,c,c,1);
 
 draw_text_transformed_colour(room_width / 1.2, 625, "戻る",3,3,0,c,c,c,c,1);
 
@@ -59,11 +59,11 @@ draw_set_halign(fa_center);
 
 draw_text_transformed_colour(room_width / 2, 300, "W→前進          S→後退",2,2,0,c,c,c,c,1);
 
-draw_text_transformed_colour(room_width / 2, 375, "A→左回転          D→右回転",2,2,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 2, 375, "A→左前進          D→右前進",2,2,0,c,c,c,c,1);
 
-draw_text_transformed_colour(room_width / 2, 450, "左クリック→発射",2,2,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 2, 450, "Enterキー→発射",2,2,0,c,c,c,c,1);
 
-draw_text_transformed_colour(room_width / 2, 525, "右クリック→水銀と水の切り替え",2,2,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 2, 525, "Shiftキー→水銀と水の切り替え",2,2,0,c,c,c,c,1);
 
 draw_text_transformed_colour(room_width / 1.2, 625, "戻る",3,3,0,c,c,c,c,1);
 

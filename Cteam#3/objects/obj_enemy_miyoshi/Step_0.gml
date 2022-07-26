@@ -10,7 +10,7 @@ if(instance_exists(obj_player)){//playerを格納
 		speed = 0
 		return
 	}
-	speed = 3
+	speed = 2
 	//playerとのなす角を求める
 	var to_dir = point_direction(x, y, inst.x, inst.y)
 	//現在の角度をなす角の差を求める

@@ -49,5 +49,9 @@ switch(room){
 			audio_play_sound(se_damage,1,false);
 		}
 		var now_life=life;
+		if(enemy_dai_count<enemy_dai){
+			audio_play_sound(se_enemy_dai,1,false);
+		}
+		var enemy_dai_count=enemy_dai
 		break;
 }

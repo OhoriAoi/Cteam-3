@@ -10,7 +10,7 @@ draw_set_halign(fa_center);
 
     var c = c_navy; 
 
-    draw_text_transformed_colour(room_width / 2, 150, "タイトル", 7, 7, 0, c, c, c, c, 1); 
+    draw_text_transformed_colour(room_width / 2, 150, "魔法使いの逃避行", 6, 6, 0, c, c, c, c, 1); 
 
     c=c_white; 
 
@@ -69,8 +69,10 @@ draw_text_transformed_colour(room_width / 1.2, 625, "戻る",3,3,0,c,c,c,c,1);
 
     break;
 
-case rm_game:  
-
+case rm_game:
+var c = c_black; 
+draw_text_transformed_colour(view_xport[0] + room_width / 1.2, view_yport[0] + 625,"スコア" + string(score),3,3,0,c,c,c,c,1);
+draw_text_transformed_colour(room_width / 1.2, 625,"ライフ" + string(lives),3,3,0,c,c,c,c,1);
     break; 
 
 

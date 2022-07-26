@@ -1,7 +1,7 @@
 direction = 270;
 
 ballet = true
-life=3;
+lives=3;
 //ここに変更があるはず
 
 view_enabled = true
